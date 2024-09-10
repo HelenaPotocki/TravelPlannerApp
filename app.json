@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "TravelPlanner",
+    "slug": "TravelPlanner",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.TravelPlanner"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
